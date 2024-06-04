@@ -20,7 +20,7 @@ Also in my youtube channel, it is possible to see the different scripts that wer
 <br><br><br>
 At last, here is a demonstration of the drone flying with the object detection script. 
 
-[![DroneAssemblyVideo](https://img.youtube.com/vi/v0mY6NzRlcU&t=69s/0.jpg)](https://www.youtube.com/watch?v=v0mY6NzRlcU&t=69s)
+[![DroneAssemblyVideo](https://img.youtube.com/vi/v0mY6NzRlcU&t/0.jpg)](https://www.youtube.com/watch?v=v0mY6NzRlcU&t)
 
 ## Author info
 - Email: macostadelvecchio@gmail.com
