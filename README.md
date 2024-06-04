@@ -3,7 +3,7 @@
 
 ## Table of contents
 - [Description](https://github.com/MiguelAcostaDelVecchio/AerialPhotographer/blob/main/README.md#description)
-- [Details]()
+- [Details](https://github.com/MiguelAcostaDelVecchio/AerialPhotographer/blob/main/README.md#details)
 - [Author info](https://github.com/MiguelAcostaDelVecchio/AerialPhotographer/blob/main/README.md#Author-Info)
 
 ## Description
