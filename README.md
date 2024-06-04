@@ -16,11 +16,11 @@ To begin this project, we had to determine which components to buy which had to 
 <br><br><br>
 Also in my youtube channel, it is possible to see the different scripts that were developed for object detection. Below is one example of the object detection script that was implemented into the drone. 
 
-[![DroneAssemblyVideo](https://img.youtube.com/vi/in41fGiQ4bU/0.jpg)](https://www.youtube.com/watch?v=in41fGiQ4bU)
+[![ObjectDetectionScript](https://img.youtube.com/vi/in41fGiQ4bU/0.jpg)](https://www.youtube.com/watch?v=in41fGiQ4bU)
 <br><br><br>
 At last, here is a demonstration of the drone flying with the object detection script. 
 
-[![DroneAssemblyVideo](https://img.youtube.com/vi/v0mY6NzRlcU&t/0.jpg)](https://www.youtube.com/watch?v=v0mY6NzRlcU&t)
+[![DroneFlight](https://img.youtube.com/vi/v0mY6NzRlcU/0.jpg)](https://www.youtube.com/watch?v=v0mY6NzRlcU)
 
 ## Author info
 - Email: macostadelvecchio@gmail.com
